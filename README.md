@@ -2,7 +2,7 @@
 ## 링크
 ### * [Raspberry Pi OS](https://github.com/yukwanwoo/Raspberry_PI_Setting)
 ### * [Install Node](#node)
-### * [Install VPN](#vpn)
+### * [Install VPN](https://github.com/yukwanwoo/Raspberry_Pi_Install_VPN)
 
 # Install Node <a id="node"></a>
 
@@ -27,4 +27,4 @@ $ sudo rm -rf node-v16.15.1-linux-armv7l.tar.xz
 ## 링크
 ### * [Raspberry Pi OS](https://github.com/yukwanwoo/Raspberry_PI_Setting)
 ### * [Install Node](#node)
-### * [Install VPN](#vpn)
+### * [Install VPN](https://github.com/yukwanwoo/Raspberry_Pi_Install_VPN)
